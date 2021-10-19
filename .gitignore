@@ -1,0 +1,9 @@
+*.bib
+*.tex
+*.aux
+*.log
+*.out
+*.gz
+*.zip
+
+plot
